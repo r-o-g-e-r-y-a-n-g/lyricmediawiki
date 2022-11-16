@@ -5,6 +5,11 @@ Deployed https://github.com/wikimedia/mediawiki to https://lyricmedia.wiki/index
 
 Diagnostic: https://lyricmedia.wiki/index.php/Special:Version
 
+Media Wiki Resources
+https://www.mediawiki.org/wiki/Help:Redirects
+https://www.mediawiki.org/wiki/Manual:Configuration_settings
+https://www.mediawiki.org/wiki/Manual:LocalSettings.php
+
 Media Wiki Extensions: https://www.mediawiki.org/wiki/Manual:Extensions
 https://www.mediawiki.org/wiki/Extension:HeadScript
 https://www.mediawiki.org/wiki/Extension:GTag & https://www.mediawiki.org/wiki/Special:ExtensionDistributor?extdistname=googleAnalytics&extdistversion=REL1_38
